@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527948084761",
+    "project_id": "flutter-reconnect",
+    "storage_bucket": "flutter-reconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527948084761:android:a78d1b6d94826c5cee1c88",
+        "android_client_info": {
+          "package_name": "com.example.ReConnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527948084761-6q0hpp2uo4jp4smhk7g7d046jacl1qh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNQLXdfptYv6iiyjcsXdmiDNOEOaLpIJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527948084761-6q0hpp2uo4jp4smhk7g7d046jacl1qh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
